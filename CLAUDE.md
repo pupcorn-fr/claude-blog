@@ -160,7 +160,9 @@ Submit at: claude.ai/settings/plugins/submit or platform.claude.com/plugins/subm
 
 ### Standalone Install (no marketplace)
 ```bash
-curl -sL https://raw.githubusercontent.com/AgriciDaniel/claude-blog/main/install.sh | bash
+curl -fsSL -o install.sh https://raw.githubusercontent.com/AI-Marketing-Hub/claude-blog/main/install.sh
+echo "7b3fe720d99448bf54e4a77d74da24928063e23f695b8073770580ae985102da  install.sh" | sha256sum -c
+bash install.sh
 ```
 
 ## Release Blog Post

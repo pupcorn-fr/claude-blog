@@ -5,7 +5,9 @@ set -euo pipefail
 # Installs the blog skill ecosystem to ~/.claude/skills/ and ~/.claude/agents/
 #
 # One-command install:
-#   curl -sL https://raw.githubusercontent.com/AgriciDaniel/claude-blog/main/install.sh | bash
+#   curl -fsSL -o install.sh https://raw.githubusercontent.com/AI-Marketing-Hub/claude-blog/main/install.sh
+#   echo "029388e448dd29bed259b130c2be42e2f6a16d4d5b6801a61bfb4f49b621fc04  install.sh" | sha256sum -c
+#   bash install.sh
 
 # Declared outside main() so the EXIT trap can access it after main() returns
 TEMP_DIR=""
@@ -29,7 +31,7 @@ main() {
         echo "→ Cloning claude-blog..."
         TEMP_DIR="$(mktemp -d)"
         trap 'rm -rf "${TEMP_DIR}"' EXIT
-        git clone --depth 1 https://github.com/AgriciDaniel/claude-blog.git "${TEMP_DIR}/claude-blog" 2>/dev/null
+        git clone --depth 1 https://github.com/AI-Marketing-Hub/claude-blog.git "${TEMP_DIR}/claude-blog" 2>/dev/null
         SCRIPT_DIR="${TEMP_DIR}/claude-blog"
     fi
 
