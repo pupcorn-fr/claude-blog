@@ -154,8 +154,8 @@ Submit at: claude.ai/settings/plugins/submit or platform.claude.com/plugins/subm
 
 ### Self-Hosted Marketplace
 ```
-/plugin marketplace add AgriciDaniel/claude-blog
-/plugin install claude-blog@AgriciDaniel-claude-blog
+/plugin marketplace add AI-Marketing-Hub/claude-blog
+/plugin install claude-blog@ai-marketing-hub-claude-blog
 ```
 
 ### Standalone Install (no marketplace)
