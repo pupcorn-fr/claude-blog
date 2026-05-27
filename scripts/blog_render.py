@@ -164,10 +164,47 @@ def _parse_frontmatter(raw: str) -> tuple[dict, str]:
     return fm, body
 
 
+def _process_markers(md_text: str) -> str:
+    """Strip blog-write workflow markers before rendering.
+
+    Handles:
+    - [UNIQUE INSIGHT], [ORIGINAL DATA], [PERSONAL EXPERIENCE], [ANSWER-FIRST]
+      → strip the bracket label, keep the text that follows
+    - [INFO-GAIN: ...] → strip the bracket label entirely
+    - [INTERNAL-LINK: anchor → /url] → convert to a real markdown link [anchor](/url)
+    - Orphan lines that are only a marker with no text → remove the whole line
+    """
+    import re
+
+    # Strip standalone info-gain/insight markers (keep following text on same line)
+    for marker in ["UNIQUE INSIGHT", "ORIGINAL DATA", "PERSONAL EXPERIENCE", "ANSWER-FIRST"]:
+        md_text = re.sub(r"\[" + re.escape(marker) + r"\]\s*", "", md_text)
+
+    # Strip INFO-GAIN: ... markers (e.g. [INFO-GAIN: first-hand observation])
+    md_text = re.sub(r"\[INFO-GAIN:[^\]]*\]\s*", "", md_text)
+
+    # Convert [INTERNAL-LINK: anchor text → /url] to [anchor text](/url)
+    def _internal_link(m: re.Match) -> str:
+        anchor = m.group(1).strip()
+        url = m.group(2).strip()
+        return f"[{anchor}]({url})"
+
+    md_text = re.sub(
+        r"\[INTERNAL-LINK:\s*(.+?)\s*→\s*([^\]]+)\]",
+        _internal_link,
+        md_text,
+    )
+
+    # Remove any lines that became empty after marker stripping
+    md_text = re.sub(r"^\s*\n", "\n", md_text, flags=re.MULTILINE)
+    return md_text
+
+
 def _markdown_to_html(body: str) -> str:
     """Convert markdown body to HTML. Uses python-markdown if installed,
     else a minimal stdlib subset (ATX headings, paragraphs, code, links,
     emphasis, lists, blockquotes, hr, images)."""
+    body = _process_markers(body)
     try:
         import markdown  # type: ignore
         return markdown.markdown(body, extensions=["extra", "sane_lists"])
