@@ -70,27 +70,27 @@ En 2022, une enquête BENEO/Wizer menée auprès de 2 500 propriétaires d'anima
 ---
 
 <figure>
-<svg viewBox="0 0 560 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Graphique en donut : ce que les propriétaires vérifient en priorité sur une étiquette">
+<svg viewBox="0 0 560 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Graphique : ce que les propriétaires vérifient en priorité sur une étiquette">
   <title>Ce que les propriétaires vérifient en priorité sur une étiquette</title>
-  <rect width="560" height="380" fill="#f8f9fa" rx="12"/>
-  <text x="280" y="36" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#1a1a2e">Ce que les propriétaires vérifient en priorité sur une étiquette</text>
-  <!-- Donut : cx=200 cy=205 R=110 r=60. Proportions : 38 % / 37,5 % / 24,5 % -->
-  <!-- Segment 1 (rose #e8637a) : -90° → 46.8° -->
-  <path d="M200,95 A110,110 0 0,1 275.1,285.2 L209.6,247.1 A60,60 0 0,0 200,145 Z" fill="#e8637a"/>
-  <!-- Segment 2 (bleu #4a90d9) : 46.8° → 181.8° -->
-  <path d="M275.1,285.2 A110,110 0 0,1 90.1,208.5 L140.1,206.9 A60,60 0 0,0 209.6,247.1 Z" fill="#4a90d9"/>
-  <!-- Segment 3 (vert #52c78a) : 181.8° → 270° -->
-  <path d="M90.1,208.5 A110,110 0 0,1 200,95 L200,145 A60,60 0 0,0 140.1,206.9 Z" fill="#52c78a"/>
-  <text x="200" y="200" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#555">Critères</text>
-  <text x="200" y="216" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#555">étiquette</text>
-  <rect x="60" y="320" width="16" height="16" rx="3" fill="#e8637a"/>
-  <text x="82" y="333" font-family="system-ui, sans-serif" font-size="12" fill="#333">80 % — Moins d'additifs = plus sain</text>
-  <rect x="60" y="344" width="16" height="16" rx="3" fill="#4a90d9"/>
-  <text x="82" y="357" font-family="system-ui, sans-serif" font-size="12" fill="#333">79 % — Lire les indésirables</text>
-  <rect x="330" y="320" width="16" height="16" rx="3" fill="#52c78a"/>
-  <text x="352" y="333" font-family="system-ui, sans-serif" font-size="12" fill="#333">52 % — Allégation "naturel"</text>
+  <rect width="560" height="220" fill="#fafaf9" rx="12"/>
+  <text x="280" y="28" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#1c1917">Ce que les propriétaires vérifient en priorité sur une étiquette</text>
+  <text x="280" y="44" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#78716c">(réponses multiples possibles — enquête BENEO/Wizer, n=2 500)</text>
+  <!-- Bar 1 — 80% -->
+  <text x="20" y="82" font-family="system-ui, sans-serif" font-size="12" fill="#57534e" dominant-baseline="middle">Moins d'additifs = plus sain</text>
+  <rect x="220" y="70" width="256" height="22" rx="4" fill="#F07A30"/>
+  <text x="482" y="82" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#C95F1A" dominant-baseline="middle">80 %</text>
+  <!-- Bar 2 — 79% -->
+  <text x="20" y="122" font-family="system-ui, sans-serif" font-size="12" fill="#57534e" dominant-baseline="middle">Repérer les ingrédients indésirables</text>
+  <rect x="220" y="110" width="253" height="22" rx="4" fill="#F07A30" opacity="0.75"/>
+  <text x="479" y="122" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#C95F1A" dominant-baseline="middle">79 %</text>
+  <!-- Bar 3 — 52% -->
+  <text x="20" y="162" font-family="system-ui, sans-serif" font-size="12" fill="#57534e" dominant-baseline="middle">Vérifier l'allégation "naturel"</text>
+  <rect x="220" y="150" width="166" height="22" rx="4" fill="#F07A30" opacity="0.45"/>
+  <text x="392" y="162" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#C95F1A" dominant-baseline="middle">52 %</text>
+  <!-- Axis line -->
+  <line x1="220" y1="60" x2="220" y2="185" stroke="#e7e5e4" stroke-width="1"/>
 </svg>
-<figcaption style="text-align:center; font-size:0.85em; color:#666; margin-top:6px;">Sources : BENEO/Wizer, 2022 (n=2 500) &amp; PetfoodIndustry, 2024</figcaption>
+<figcaption style="text-align:center; font-size:0.85em; color:#78716c; margin-top:6px;">Sources : BENEO/Wizer, 2022 (n=2 500) &amp; PetfoodIndustry, 2024 — réponses non exclusives</figcaption>
 </figure>
 
 <!-- TODO BRAND: Remplacer par une photo de marque Pupcorn — flat-lay des 4 ingrédients (lait de yak, lait de vache, sel, citron) sur ardoise -->
