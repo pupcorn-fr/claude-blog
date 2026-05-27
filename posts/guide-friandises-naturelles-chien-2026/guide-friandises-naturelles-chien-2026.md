@@ -45,19 +45,19 @@ Pourtant un chiffre devrait nous faire réfléchir : entre 80 et 89 % des chiens
 
 ---
 
-## Qu'est-ce qu'une friandise naturelle pour chien — vraiment ? {#h2-1}
+## "Naturel" sur l'emballage, ça veut dire quoi exactement ? {#h2-1}
 
-Plus de 80 % des propriétaires estiment qu'un produit avec moins d'additifs est plus sain pour leur animal, selon l'enquête BENEO/Wizer menée auprès de 2 500 propriétaires dans cinq pays ([BENEO/Wizer, 2022](https://www.nutraceuticalsworld.com/contents/view_breaking-news/2022-02-02/survey-highlights-demand-for-recognizable-health-promoting-pet-food-ingredients)). Mais le terme "naturel" n'est pas défini de façon uniforme par la réglementation européenne — ce qui laisse la porte ouverte à des abus marketing significatifs.
+Réponse courte : pas grand-chose. Plus de 80 % des propriétaires pensent qu'un produit avec moins d'additifs est forcément plus sain ([BENEO/Wizer, 2022](https://www.nutraceuticalsworld.com/contents/view_breaking-news/2022-02-02/survey-highlights-demand-for-recognizable-health-promoting-pet-food-ingredients)) — et ils ont raison sur le fond. Le problème, c'est que le mot "naturel" n'est pas défini par la réglementation européenne. N'importe qui peut l'écrire sur n'importe quoi.
 
-La réglementation européenne (règlement CE 767/2009) encadre l'alimentation animale, mais n'impose pas de définition stricte du mot "naturel". Un fabricant peut légalement inscrire "au poulet" sur l'emballage si la recette contient seulement 4 % de cette viande. Le reste peut être constitué de farine de céréales, de conservateurs et d'arômes artificiels. Concrètement, le label ne dit rien sur la qualité réelle du produit.
+Un exemple concret : un fabricant peut légalement inscrire "au poulet" si la recette contient 4 % de viande. Le reste ? Farine de céréales, conservateurs, arômes artificiels. Le label ne dit rien sur ce qu'il y a vraiment dedans.
 
-### Naturel, bio, sans céréales : ce que disent vraiment les étiquettes
+### Naturel, bio, sans céréales : le vrai décodage
 
-**"Naturel"** : terme marketing non encadré. Vérifiez toujours la liste complète des ingrédients.
+**"Naturel"** — terme marketing libre, non contrôlé. Ignorez-le, lisez la liste d'ingrédients.
 
-**"Bio"** (Agriculture Biologique) : certifié par un organisme tiers, garantit l'absence de pesticides et OGM dans les matières premières. C'est objectivement plus fiable que "naturel".
+**"Bio"** — certifié par un organisme tiers, garantit l'absence de pesticides et d'OGM. Objectivement plus fiable que "naturel".
 
-**"Sans céréales"** : indique l'absence de blé, maïs ou orge, mais ne garantit pas une faible densité d'ingrédients. Un produit "sans céréales" peut contenir des pommes de terre, des légumineuses et dix additifs.
+**"Sans céréales"** — pas de blé, maïs ou orge, mais ça n'empêche pas dix additifs ailleurs dans la recette. À croiser avec la longueur totale de la liste.
 
 En 2022, 79 % des propriétaires déclaraient lire les étiquettes spécifiquement pour repérer les ingrédients indésirables, selon la même étude BENEO/Wizer ([BENEO/Wizer, 2022](https://www.beneo.com/news/global-pet-food-survey-demand-for-recognisable-and-health-promoting-ingredients)). Pourtant, beaucoup s'arrêtent au nom du produit sans descendre jusqu'à la composition détaillée.
 
@@ -298,19 +298,19 @@ Entre 80 et 89 % des chiens développent une maladie parodontale avant l'âge de
 
 ---
 
-## Friandises naturelles pour chien sensible, allergique ou âgé — guide par profil {#h2-6}
+## Votre chien est sensible, allergique ou senior ? Voici son profil {#h2-6}
 
-Selon le Manuel Merck Vétérinaire (2024), les allergies alimentaires représentent entre 10 et 15 % des cas dermatologiques en consultation canine ([Merck Veterinary Manual](https://www.msdvetmanual.com/integumentary-system/food-allergy-cutaneous-adverse-food-reaction-/food-allergy-in-dogs-and-cats)). Les allergènes les plus fréquents chez le chien sont les protéines de bœuf, de poulet et de blé. Les protéines dites "novel" (yak, canard, saumon) réduisent le risque de réaction croisée, car le système immunitaire du chien n'y a pas encore été exposé.
+Tous les chiens ne se ressemblent pas — et leur friandise idéale non plus. Les allergies alimentaires représentent entre 10 et 15 % des consultations dermatologiques canines ([Merck Veterinary Manual, 2024](https://www.msdvetmanual.com/integumentary-system/food-allergy-cutaneous-adverse-food-reaction-/food-allergy-in-dogs-and-cats)). Les coupables les plus fréquents : bœuf, poulet, blé. Les protéines "novel" comme le yak — que la plupart des chiens n'ont jamais mangées — réduisent mécaniquement le risque de réaction croisée.
 
-Quelle friandise choisir selon le profil de votre chien ? Voici quatre situations concrètes.
+Voici quatre profils courants, et ce qu'il faut vraiment surveiller pour chacun.
 
 ### Chien allergique
 
-Priorité aux protéines novel et aux recettes mono-ingrédient ou à ingrédients très limités. Le yak est particulièrement indiqué : absent de la majorité des recettes industrielles françaises, il présente un profil allergénique croisé faible avec les autres ruminants domestiques. Évitez tout produit contenant des "protéines animales" non identifiées, qui peuvent masquer du poulet ou du bœuf.
+Son meilleur ami : les recettes à ingrédients très limités, idéalement mono-protéine. Le yak est particulièrement bien placé — quasiment absent des recettes industrielles françaises, donc peu de chances que son système immunitaire l'ait déjà croisé. Un conseil : évitez tout produit qui note "protéines animales" sans préciser lesquelles. C'est souvent là que se cachent poulet ou bœuf.
 
 ### Chiot
 
-Les chiots en pleine croissance ne doivent pas recevoir de friandises très dures avant la fin de la dentition définitive (environ 6 mois). Le format soufflé est plus adapté que le fromage de yak entier : même densité nutritionnelle, moins de risque de fracture dentaire sur des dents de lait. Taille : choisissez des morceaux adaptés au gabarit du chiot pour éviter tout risque d'ingestion trop rapide.
+Règle d'or : pas de friandises très dures avant 6 mois. Les dents de lait ne sont pas faites pour ça — risque de fracture réel. Le format soufflé est parfait : même valeur nutritionnelle que le bloc dur, mais texture beaucoup plus adaptée à une petite gueule en construction.
 
 ### Chien senior
 
@@ -367,11 +367,11 @@ Voici les 5 types qui se démarquent en 2026, selon les critères de composition
 | 4 | Oreilles de bœuf | Longue mastication, très appréciées | Odeur prononcée, calorique |
 | 5 | Légumes déshydratés (patate douce, carotte) | Faible calorie, fibre | Mastication courte, peu de protéines |
 
-Quelques questions méritent d'être posées avant d'acheter : le fabricant publie-t-il la composition complète avec les teneurs ? L'origine des matières premières est-elle précisée ? La date de fabrication est-elle lisible ?
+Avant d'acheter, trois questions rapides : la composition complète est-elle publiée avec les teneurs ? L'origine des matières premières est précisée ? La date de fabrication est lisible ? Si vous avez trois "non", reposez le paquet.
 
-Pour les propriétaires qui cherchent la simplicité maximale, un ingrédient inconnu reste un risque non évalué. Quatre ingrédients connus valent mieux que douze ingrédients dont la moitié est illisible.
+Un ingrédient que vous ne reconnaissez pas, c'est un risque que vous ne pouvez pas évaluer. Quatre ingrédients que vous connaissez, c'est une décision que vous faites en connaissance de cause.
 
-**Découvrez le Pupcorn** - [pupcorn.fr](https://pupcorn.fr)
+**Essayez le Pup Corn** — [pupcorn.fr](https://pupcorn.fr)
 
 <!-- TODO BRAND: Remplacer par une photo produit Pupcorn — fromage de yak soufflé avant/après micro-ondes -->
 ![Fromage de yak soufflé Pupcorn — avant et après passage au micro-ondes, comparaison côte à côte](https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800&h=500&fit=crop&q=80)

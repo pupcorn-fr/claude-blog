@@ -131,20 +131,23 @@ Le vocabulaire de gamme garde toujours l'esprit : snack, plaisir, meute, rituel.
 
 ## Univers visuel
 
-**À adopter :**
-- Beige, crème, naturel, textures kraft
-- Chiens expressifs (pas banque d'images générique)
-- Moments de vie authentiques
-- Snacks bien visibles, appétissants
-- Chaleureux, clean, premium mais accessible, doux, gourmand, moderne
+**Palette couleurs :**
+- Dominantes : beige, crème, blanc cassé
+- Accent / contraste : orange (textes mis en valeur, CTA, highlights)
+- À éviter : couleurs criardes, bleu vétérinaire, vert pharmacie
+
+**Photos :**
+- Chiens expressifs, modernes, style D2C (pas banque d'images générique)
+- Moments de vie authentiques — canapé, balade, cuisine, regard complice
+- Snacks bien visibles, texture croustillante mise en avant
+- Esthétique : naturel, clean, chaleureux, premium accessible
+- Références visuelles : marques D2C pet food modernes (The Farmer's Dog, Butternut Box)
 
 **À éviter absolument :**
-- Visuels trop vétérinaires / cliniques
-- Codes animalerie discount
-- Couleurs criardes
-- Mises en scène trop froides ou trop artificielles
-- Packshots "catalogue"
-- Chiens posés / sans expression
+- Visuels vétérinaires / cliniques / packaging discount
+- Chiens posés ou trop "sages" (regard vide, studio blanc)
+- Mises en scène froides ou trop artificielles
+- Photos trop sombres ou trop saturées
 
 ---
 
