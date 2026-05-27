@@ -15,19 +15,19 @@ tags: ["friandises naturelles pour chien", "fromage de yak chien", "friandises s
 
 # Friandises naturelles pour chien : guide complet 2026 (comparatif + conseils)
 
-Entre 80 et 89 % des chiens développent une maladie parodontale avant l'âge de 3 ans, selon l'American Veterinary Medical Association ([AVMA, Pet Dental Care 2024](https://www.avma.org/resources-tools/pet-owners/petcare/pet-dental-care)). Pourtant, peu de propriétaires font le lien entre le choix d'une friandise et la santé bucco-dentaire de leur animal. Résultat : les rayons animaleries débordent de produits estampillés "naturel", "sans additifs" ou "au poulet", et il est facile de s'y perdre.
+On a tous retourné un paquet en animalerie en se demandant ce que "naturel" voulait vraiment dire. Entre les allégations marketing, les listes d'ingrédients à rallonge et les conseils contradictoires sur internet, choisir une bonne friandise pour son chien est devenu un vrai casse-tête.
 
-Ce guide vous explique ce que "naturel" signifie vraiment sur une étiquette, quel type de friandise correspond au profil de votre chien, et comment lire une composition en moins de 30 secondes. L'équipe Pupcorn, spécialisée dans les friandises saines à base de fromage de yak, a rassemblé ici les données les plus récentes pour vous aider à choisir sans vous faire avoir.
+Pourtant un chiffre devrait nous faire réfléchir : entre 80 et 89 % des chiens développent une maladie parodontale avant leurs 3 ans ([AVMA, 2024](https://www.avma.org/resources-tools/pet-owners/petcare/pet-dental-care)). Ce que votre chien mâche tous les jours a un impact direct sur sa santé — pas juste sur son bonheur. Ce guide vous donne les critères concrets pour choisir sans se faire avoir : ce que "naturel" signifie vraiment sur une étiquette, quel type de friandise correspond au profil de votre chien, et comment lire une composition en 30 secondes chrono.
 
 [INTERNAL-LINK: guide complet sur le fromage de yak pour chiens → /blog/fromage-de-yak-chien-guide]
 
 ---
 
-> **Key Takeaways**
-> - En 2026, 80-89 % des chiens développent une maladie parodontale avant 3 ans — la mastication longue durée est une mesure préventive, pas un luxe (AVMA, 2024).
-> - 79 % des propriétaires lisent les étiquettes pour éviter les additifs : moins d'ingrédients = moins de risques (BENEO/Wizer, 2022).
-> - La règle des 10 % : les friandises ne doivent jamais dépasser 10 % des apports caloriques journaliers du chien.
-> - Le marché mondial des snacks pour animaux atteindra 79,2 Mds $ en 2030, preuve que la demande de friandises saines ne faiblit pas.
+> **En deux minutes, vous saurez :**
+> - Pourquoi 80-89 % des chiens ont des problèmes dentaires avant 3 ans — et comment une simple friandise change la donne (AVMA, 2024)
+> - Ce que "naturel" veut vraiment dire sur une étiquette (indice : pas grand-chose sans critères précis)
+> - La règle des 10 % que tous les vétérinaires appliquent — et que personne n'explique clairement
+> - Pourquoi moins d'ingrédients, c'est presque toujours mieux pour votre chien
 
 ---
 
@@ -72,46 +72,17 @@ En 2022, une enquête BENEO/Wizer menée auprès de 2 500 propriétaires d'anima
 <figure>
 <svg viewBox="0 0 560 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Graphique en donut : ce que les propriétaires vérifient en priorité sur une étiquette">
   <title>Ce que les propriétaires vérifient en priorité sur une étiquette</title>
-  <!-- Background -->
   <rect width="560" height="380" fill="#f8f9fa" rx="12"/>
-  <!-- Title -->
   <text x="280" y="36" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#1a1a2e">Ce que les propriétaires vérifient en priorité sur une étiquette</text>
-  <!-- Donut chart centered at 200,205 radius 110, inner 60 -->
-  <!-- Segment 1: 80% = 288 deg — coral/rose -->
-  <!-- Start angle: -90 deg (top). Arc math: 80% of 360 = 288 deg -->
-  <!-- Segment 1: 0 to 288 deg (80%) -->
-  <path d="M200,95 A110,110 0 1,1 69.6,271.5 L113.6,241.9 A60,60 0 1,0 200,145 Z" fill="#e8637a"/>
-  <!-- Segment 2: 288 to 572.4 deg = 284.4 deg but we only have 360 total, so:
-       Remaining after 80% = 20% = 72 deg
-       Segment 2 = 79% but displayed as proportion of remaining 20% visual... 
-       
-       Let me recalculate properly. Total = 80 + 79 + 52 is > 100, these are independent stats.
-       Display as 3 equal-ish segments representing the three data points visually:
-       Segment proportions: 80/(80+79+52)=38%, 79/(80+79+52)=37.5%, 52/(80+79+52)=24.6%
-       Degrees: 136.8, 135, 88.6 -->
-  <!-- Using cx=200, cy=205, R=110, r=60 -->
-  <!-- Segment 1: 80% owners (coral) — -90 to -90+136.8 = -90 to 46.8 deg -->
-  <!-- x = cx + R*cos(angle), y = cy + R*sin(angle) -->
-  <!-- -90deg: (200, 95) -->
-  <!-- 46.8deg: (200+110*cos(46.8°), 205+110*sin(46.8°)) = (200+75.1, 205+80.2) = (275.1, 285.2) -->
-  <!-- inner: (200+60*cos(46.8°), 205+60*sin(60°)) -->
-  <!-- Redraw with correct calculations -->
-  <!-- Segment 1 (coral #e8637a): -90° to 46.8° (136.8°, large arc=0) -->
+  <!-- Donut : cx=200 cy=205 R=110 r=60. Proportions : 38 % / 37,5 % / 24,5 % -->
+  <!-- Segment 1 (rose #e8637a) : -90° → 46.8° -->
   <path d="M200,95 A110,110 0 0,1 275.1,285.2 L209.6,247.1 A60,60 0 0,0 200,145 Z" fill="#e8637a"/>
-  <!-- Segment 2 (blue #4a90d9): 46.8° to 181.8° (135°, large arc=0) -->
-  <!-- 181.8deg: (200+110*cos(181.8°), 205+110*sin(181.8°)) = (200-109.9, 205+3.5) = (90.1,208.5) -->
-  <!-- inner 181.8: (200+60*cos(181.8°), 205+60*sin(181.8°)) = (200-59.9, 205+1.9) = (140.1, 206.9) -->
+  <!-- Segment 2 (bleu #4a90d9) : 46.8° → 181.8° -->
   <path d="M275.1,285.2 A110,110 0 0,1 90.1,208.5 L140.1,206.9 A60,60 0 0,0 209.6,247.1 Z" fill="#4a90d9"/>
-  <!-- Segment 3 (green #52c78a): 181.8° to 270° (88.2°, large arc=0) -->
-  <!-- 270deg = (200, 315). inner 270: (200, 265) -->
-  <!-- Back to start at -90° = (200, 95) needs inner at (200,145) -->
-  <!-- Actually close back to -90 which is 270 = (200, 95) -->
-  <!-- 270deg outer: (200, 315), inner: (200, 265) -->
+  <!-- Segment 3 (vert #52c78a) : 181.8° → 270° -->
   <path d="M90.1,208.5 A110,110 0 0,1 200,95 L200,145 A60,60 0 0,0 140.1,206.9 Z" fill="#52c78a"/>
-  <!-- Center label -->
   <text x="200" y="200" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#555">Critères</text>
   <text x="200" y="216" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#555">étiquette</text>
-  <!-- Legend -->
   <rect x="60" y="320" width="16" height="16" rx="3" fill="#e8637a"/>
   <text x="82" y="333" font-family="system-ui, sans-serif" font-size="12" fill="#333">80 % — Moins d'additifs = plus sain</text>
   <rect x="60" y="344" width="16" height="16" rx="3" fill="#4a90d9"/>
@@ -451,7 +422,7 @@ Trois points à retenir :
 - La mastication longue durée protège les dents : entre 80 et 89 % des chiens développent une maladie parodontale avant 3 ans, et une bonne friandise est une mesure préventive concrète.
 - La règle des 10 % est non négociable : intégrez toujours les friandises dans le bilan calorique journalier.
 
-Le marché évolue vite, mais les bons critères de sélection restent stables : transparence, ingrédients identifiables, usage adapté au profil du chien. Choisissez en connaissance de cause.
+Les modes passent, les ingrédients restent. Une étiquette courte que vous comprenez vaut mieux que dix certifications que personne ne vérifie. Votre chien ne sait pas lire — mais vous, oui.
 
 [INTERNAL-LINK: guide complet fromage de yak chien → /blog/fromage-de-yak-chien-guide]
 [INTERNAL-LINK: recettes DIY friandises naturelles pour chien → /blog/recettes-friandises-maison-chien]
@@ -463,7 +434,7 @@ Le marché évolue vite, mais les bons critères de sélection restent stables :
 
 ## À propos de l'auteur
 
-**Joris Arrighi** est le fondateur de [Pupcorn](https://pupcorn.fr), une marque française de friandises saines pour chiens à base de fromage de yak. Passionné par la nutrition canine et la transparence des ingrédients, il a développé la recette Pupcorn pour offrir une alternative aux friandises industrielles : 4 ingrédients identifiables, zéro conservateur artificiel, et un format soufflé au micro-ondes adapté à tous les gabarits. Il partage sur ce blog les données et les critères qui lui permettent d'évaluer ce que les chiens méritent vraiment de manger.
+**Joris Arrighi** est le fondateur de [Pupcorn](https://pupcorn.fr). Il a créé Pupcorn parce qu'il en avait marre de retourner des paquets en animalerie sans comprendre ce qu'il donnait à son chien. La solution : une friandise à 4 ingrédients, soufflée au micro-ondes, qui fait le même effet qu'un pop-corn — pour le chien comme pour celui qui le regarde. Sur ce blog, il partage ce qu'il a appris en chemin sur la nutrition canine, sans jargon et sans filtre.
 
 ---
 
